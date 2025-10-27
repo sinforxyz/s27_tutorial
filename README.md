@@ -18,7 +18,7 @@ echo "Hello world, hello PHOENIX"
 ```
 - 结果截图：
 **这里插入截图**
-![alt text](/home/sin1/图片/截图/截图 2025-10-26 18-16-52.png)
+![alt text](image.png)
 
 ---
 仔细思考，冷静分析。
