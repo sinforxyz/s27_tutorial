@@ -18,7 +18,7 @@ echo "Hello world, hello PHOENIX"
 ```
 - 结果截图：
 **这里插入截图**
-![alt text](image.png)
+![alt text](image1.png)
 
 ---
 仔细思考，冷静分析。
